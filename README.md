@@ -17,7 +17,7 @@ This is a frontend-only interface for a **Cashback Calculator**, designed with a
 
 ---
 
-## 📦 Features
+## Features
 
 - Fully responsive layout
 - Dark-themed, elegant UI
@@ -25,7 +25,7 @@ This is a frontend-only interface for a **Cashback Calculator**, designed with a
 - CSS-only animations for fade, slide, and pulse
 - Semantic, accessible structure with minimal markup
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML
 * CSS3 
